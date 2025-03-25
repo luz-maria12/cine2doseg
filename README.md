@@ -8,7 +8,10 @@
 
 ## Entrega - Examen 2do. seguimiento
 
-## Presenta: Luz Maria Cruz Garcia 21200647
+## Presenta: 
+## Luz Maria Crúz García 21200647
+## Fuentes Ramirez José Antonio 21200648
+## Jocelyn Ramirez Pérez 21200663
 
 # Docente: M.T.I Luis Alejandro Santana Valadez
 
